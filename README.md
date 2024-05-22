@@ -14,9 +14,9 @@
     5. string
     6. os
     7. shutil
-3. 申請(註冊)免費的uClassify，已獲的金鑰。
-    1. 進入[註冊頁面](https://https://uclassify.com/account/register)
-    2. 完成註冊後進入[管理中心的API Keys](https://https://uclassify.com/manage/apikeys)
+3. 申請(註冊)免費的[uClassify](https://uclassify.com/)，已獲的金鑰。
+    1. 進入註冊頁面
+    2. 完成註冊後進入管理中心的API Keys
     3. 複製讀取(Read)的金鑰
     4. 執行`main.py`，按下setting，在跳出視窗中的輸入方塊貼上金鑰，並按下儲存
        ![token示意圖](https://hackmd.io/_uploads/HyZfRDsm0.png)
