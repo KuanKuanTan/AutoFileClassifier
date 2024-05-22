@@ -1,5 +1,5 @@
 # AutoFileClassifier 
-> [name=yun-kuan chen]
+
 您可以透過此程式選擇一個資料夾或磁碟來分類檔案，並會自動將檔案移動到所屬的資料夾。
 
 # 說明:
